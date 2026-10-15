@@ -34,5 +34,3 @@ Par conséquent :
 
 Avec `delta = 0.8`, the true target ATE is `3.2`.
 
-La distribution des covariables change, mais l’équation conditionnelle du résultat est maintenue fixe. Cela fait de l’expérience une illustration claire du décalage de covariables avec hétérogénéité de l’effet du traitement.
-
